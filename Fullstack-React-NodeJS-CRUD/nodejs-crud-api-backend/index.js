@@ -46,7 +46,7 @@ app.get("/api/products", async (req, res) => {
   }
 });
 
-// R -Read by Id [GET]
+// R - Read by Id [GET]
 app.get("/api/products/:id", async (req, res) => {
   try {
     const { id } = req.params;
