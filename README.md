@@ -1,2 +1,2 @@
 # Fullstack-Microprojects
-⚛｡🇯‌🇸‌🛢 Fullstack Journey with Microprojects
+⚛｡🇯‌🇸‌ Fullstack Journey with Microprojects
